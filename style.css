@@ -18,8 +18,6 @@ body {
   background-color: #fdf8fd;
 }
 
-/* ESTRUTURA */
-
 header, footer, main {
   text-align: center;
 }
@@ -30,7 +28,7 @@ header, .form, main {
   max-width: 500px;
 }
 
-/* TITULOS */
+/* TITLES */
 
 .logo {
   margin: 70px 0px 70px;
@@ -157,7 +155,7 @@ footer {
   border: 1px solid #eeeeee;
 }
 
-/* funcionalidade com js */
+/* js */
 
 section.form {
   transition: all 300ms;
